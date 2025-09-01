@@ -36,11 +36,8 @@ Sou apaixonado por tecnologia e estou sempre em busca de **aprender mais e evolu
 ## 🌐 Contatos
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/seu-linkedin-aqui" target="_blank">
+  <a href="https://www.linkedin.com/in/marcelo-santos-39935937b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seu-email-aqui@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Marcelo2580">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
